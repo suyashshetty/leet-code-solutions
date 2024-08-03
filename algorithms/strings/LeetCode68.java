@@ -59,7 +59,9 @@ class LeetCode68 {
             // Determine the last word index that can fit in the current line
             while (last < words.length) {
                 // Check if adding the next word would exceed maxWidth
-                if (totalChars + 1 + words[last].length() > maxWidth) break;
+                if (totalChars + 1 + words[last].length() > maxWidth){
+                    break;
+                }
                 totalChars += 1 + words[last].length();
                 last++;
             }
@@ -92,11 +94,9 @@ class LeetCode68 {
                     sb.append(words[i]);
                 }
             }
-
             result.add(sb.toString());
             index = last;
         }
-
         return result;
     }
 }
