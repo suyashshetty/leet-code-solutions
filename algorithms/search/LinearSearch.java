@@ -1,6 +1,6 @@
 package algorithms.search;
 
-public class LinearSearch {
+public class LinearSearch{
 
     /**
      * Searches for the target value in the given array.
