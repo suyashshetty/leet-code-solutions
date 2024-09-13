@@ -27,6 +27,7 @@ import java.util.Arrays;
  * Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
  * Output: [[1,5],[6,9]]
  */
+
 class LeetCode57 {
     /**
      * Inserts a new interval into the list of intervals and merges any

@@ -1,4 +1,4 @@
-package algorithms.arrays.LeetCode31;
+package algorithms.arrays.leetcode31;
 
 /**
  * LeetCode Problem 31
