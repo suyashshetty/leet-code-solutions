@@ -1,7 +1,7 @@
-# leet-code-solutions
-Public repository for leet code solutions
+# Leet Code Solutions (Practice)
+Public repository for leet code solutions, contains mix of Java and Python code along with test cases (for python : measures time and memory per test case)
 
-Welcome to the LeetCode Solutions repository! This repository contains Java solutions to various LeetCode problems. The solutions are organized by problem type to help you find and understand algorithms based on different categories.
+Welcome to the LeetCode Solutions repository! This repository contains Java/Python solutions to various LeetCode problems. The solutions are organized by problem type to help you find and understand algorithms based on different categories.
 
 ## Problem Types
 
