@@ -1,5 +1,6 @@
 from typing import List
 
+#------------------------------------------------------------
 class Solution:
     def isPalindrome(self, s:str) -> bool:
         left, right = 0, len(s) - 1
@@ -15,6 +16,9 @@ class Solution:
             right -= 1
         
         return True
+    
+#------------------------------------------------------------
+
 
 import time
 import tracemalloc
