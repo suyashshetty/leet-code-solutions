@@ -56,4 +56,4 @@
 | Heap (Priority Queue) | Efficient for dynamic ordering | Requires additional space |
 
 ## Final Code
-[Source Code](../LeetCode2940-HeapAliceBob.py)
+[Source Code](./LeetCode2940-HeapAliceBob.py)
