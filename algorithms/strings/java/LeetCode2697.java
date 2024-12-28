@@ -1,4 +1,4 @@
-package algorithms.strings;
+package algorithms.strings.java;
 
 /**
  * LeetCode Problem 2697

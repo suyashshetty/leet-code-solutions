@@ -1,4 +1,4 @@
-package algorithms.trees;
+package algorithms.trees.java;
 
 /**
  * LeetCode Problem 124

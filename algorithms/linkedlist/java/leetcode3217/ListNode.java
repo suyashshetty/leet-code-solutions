@@ -1,4 +1,4 @@
-package algorithms.linkedlist.leetcode3217;
+package algorithms.linkedlist.java.leetcode3217;
 
 public class ListNode {
 
