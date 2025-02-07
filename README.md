@@ -11,6 +11,6 @@ Welcome to the LeetCode Solutions repository! This repository contains Java/Pyth
 - **Graphs**: Solutions involving graph traversal, shortest paths, and other graph-related problems.
 - **DynamicProgramming**: Solutions for problems that can be solved using dynamic programming techniques.
 
-Approaching large datasets : [click here](Approaches.md)
+Approaching large datasets : [click here](optimizations/Approaches.md)
 
 
