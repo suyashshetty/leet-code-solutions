@@ -4,6 +4,7 @@
 | Dynamic Programming | [click-here](Dynamic-Programming.md) |
 | Graph Algorithms | [click-here](Graph-Algorithms.md) |
 | Matrix Problems | [click-here](Matrix-Problems.md) |
+| Prime Numbers | [click-here](Prime-Numbers.md) |
 | Precomputing | [click-here](Precomputations.md) |
 | Recursion | [click-here](Recursions.md) |
 | Searching and Sorting | [click-here](Searching-and-Sorting.md) |
