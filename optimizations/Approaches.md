@@ -1,11 +1,11 @@
 | Category | Link |
 |-----------|------|
-| DataStructures | [click-here](Data-Structures.md) |
-| DynamicProgramming | [click-here](Dynamic-Programming.md) |
-| GraphAlgorithms | [click-here](Graph-Algorithms.md) |
-| MatrixProblems | [click-here](Matrix-Problems.md) |
-| MemoryCache | [click-here](Memory-Cache.md) |
-| ParallelComputations | [click-here](Parallel-Computations.md) |
-| SearchingandSorting | [click-here](Searching-and-Sorting.md) |
-| SpatialData | [click-here](Spatial-Data.md) |
-| StringProcessing | [click-here](String-Processing.md) |
+| Data Structures | [click-here](Data-Structures.md) |
+| Dynamic Programming | [click-here](Dynamic-Programming.md) |
+| Graph Algorithms | [click-here](Graph-Algorithms.md) |
+| Matrix Problems | [click-here](Matrix-Problems.md) |
+| Memory Cache | [click-here](Memory-Cache.md) |
+| Recursion | [click-here](Recursions.md) |
+| Searching and Sorting | [click-here](Searching-and-Sorting.md) |
+| Spatial Data | [click-here](Spatial-Data.md) |
+| String Processing | [click-here](String-Processing.md) |
