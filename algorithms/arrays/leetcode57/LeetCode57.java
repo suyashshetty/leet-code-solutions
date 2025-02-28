@@ -1,4 +1,4 @@
-package algorithms.arrays.intervals;
+package algorithms.arrays.leetcode57;
 import java.util.Arrays;
 
 /**
